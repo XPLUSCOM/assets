@@ -1,0 +1,11 @@
+{
+    "name": "Xperience Point Token",
+    "symbol": "XPT",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://www.xplus.com/",
+    "explorer": "https://bscscan.com/token/0xa0ecaf60d01e6b62bd2b9aadb29a069b9d5b9684",
+    "status": "active",
+    "id": "0xA0ecAF60D01e6b62Bd2b9aAdb29a069B9d5B9684"
+}
